@@ -15,7 +15,7 @@ Steps after you clone this project :
 - open terminal and go to directory "Project"
 - then run command "composer install"
 - run command "php artisan key:generate"
-- and then run command "php artisan migrate"
+- and then run command "php artisan migrate:refresh --seed"
 - final step you can run command "php artisan serve" for run this project.
 
 
